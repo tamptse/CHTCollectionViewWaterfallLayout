@@ -22,6 +22,10 @@ Features
 * Outstanding performance, try 10,000+ items and see the smoothness for yourself.
 * Support header and footer views.
 * Different column counts in different sections.
+* Stick header section by set 
+``` Swift
+sectionHeadersPinToVisibleBounds = true
+```
 
 Requirements
 ------------
